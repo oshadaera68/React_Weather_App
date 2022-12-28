@@ -1,6 +1,6 @@
 # React Weather App
 
-A Sample React Application for the showing weather forcasting with the API.
+A Sample React Application for the showing weather forcasting with using API.
 
 ## Using NPM packages:
 - Axios (npm i axios)
