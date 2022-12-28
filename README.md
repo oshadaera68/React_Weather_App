@@ -13,3 +13,7 @@ A Sample React Application for the showing weather forcasting with using API.
 
 ## Copyright by
 - Oshada Eranga (oshadaera68)
+
+If You have any questions of this project, please send mail or msg from whatsapp.
+- email : oshadaeranga919@gmail.com
+- whatsapp : +94 767627455
