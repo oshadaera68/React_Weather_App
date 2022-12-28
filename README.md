@@ -2,6 +2,9 @@
 
 A Sample React Application for the showing weather forcasting with using API.
 
+## Using Technologies:
+ - React JS
+
 ## Using NPM packages:
 - Axios (npm i axios)
 
